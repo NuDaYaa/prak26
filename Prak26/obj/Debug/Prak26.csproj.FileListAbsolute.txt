@@ -1,0 +1,14 @@
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\Prak26.csproj.AssemblyReference.cache
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\MainWindow.baml
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\MainWindow.g.cs
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\App.g.cs
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\Prak26_MarkupCompile.cache
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\Prak26.g.resources
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\Prak26.Properties.Resources.resources
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\Prak26.csproj.GenerateResource.cache
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\Prak26.csproj.CoreCompileInputs.cache
+C:\Users\thewa\source\repos\Prak26\Prak26\bin\Debug\Prak26.exe.config
+C:\Users\thewa\source\repos\Prak26\Prak26\bin\Debug\Prak26.exe
+C:\Users\thewa\source\repos\Prak26\Prak26\bin\Debug\Prak26.pdb
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\Prak26.exe
+C:\Users\thewa\source\repos\Prak26\Prak26\obj\Debug\Prak26.pdb
